@@ -67,3 +67,8 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+.vs/
+firstproject/firstproject.vcxproj.filters
+firstproject/firstproject.vcxproj.user
+x64/
